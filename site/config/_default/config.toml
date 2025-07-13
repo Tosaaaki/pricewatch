@@ -3,6 +3,10 @@ languageCode = "ja-jp"
 title = "PriceWatch"
 theme = "PaperMod"
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableRobotsTXT = false
+enableGitInfo = false
+
 [params]
   description = "Price tracking for various products."
   keywords = ["price", "tracking", "products"]
