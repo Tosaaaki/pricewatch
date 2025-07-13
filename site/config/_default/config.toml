@@ -6,7 +6,7 @@ theme = "PaperMod"
 [params]
   description = "Price tracking for various products."
   keywords = ["price", "tracking", "products"]
-  images = ["/images/papermod-cover.png"]
+  
 
 [menu]
   [[menu.main]]
