@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome to PriceWatch on PriceWatch</title>
+    <link>//localhost:52267/</link>
+    <description>Recent content in Welcome to PriceWatch on PriceWatch</description>
+    <image>
+      <title>PriceWatch</title>
+      <url>//localhost:52267/images/papermod-cover.png</url>
+      <link>//localhost:52267/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 13 Jul 2025 10:00:00 +0900</lastBuildDate>
+    <atom:link href="//localhost:52267/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample Product with Price Drop</title>
+      <link>//localhost:52267/demo/price-drop-sample/</link>
+      <pubDate>Sun, 13 Jul 2025 10:00:00 +0900</pubDate>
+      <guid>//localhost:52267/demo/price-drop-sample/</guid>
+      <description>&lt;p&gt;This is a sample product description. The price has dropped by 15.5% from its original price of $118.33. This article demonstrates how a product with a price drop would look on the site.&lt;/p&gt;
+&lt;h2 id=&#34;product-features&#34;&gt;Product Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Feature 1: High quality material&lt;/li&gt;
+&lt;li&gt;Feature 2: Durable design&lt;/li&gt;
+&lt;li&gt;Feature 3: Easy to use&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;price-history&#34;&gt;Price History&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th&gt;Price&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2025-07-01&lt;/td&gt;
+          &lt;td&gt;$118.33&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2025-07-13&lt;/td&gt;
+          &lt;td&gt;$99.99&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

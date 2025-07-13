@@ -1,0 +1,8 @@
+[amazon]
+access_key    = "AKIA..."
+secret_key    = "..."
+partner_tag   = "yourtag-22"
+marketplace   = "www.amazon.co.jp"
+
+[pricewatch]
+drop_percent  = 12

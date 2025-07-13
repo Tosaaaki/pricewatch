@@ -1,0 +1,6 @@
+python-amazon-paapi
+boto3
+pandas
+SQLAlchemy
+requests
+python-dotenv
