@@ -4,3 +4,10 @@ title = "PriceWatch"
 theme = "PaperMod"
 enableRobotsTXT = true
 enableGitInfo = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      attribute = false
