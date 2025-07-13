@@ -2,3 +2,5 @@ baseURL = ""
 languageCode = "ja-jp"
 title = "PriceWatch"
 theme = "PaperMod"
+enableRobotsTXT = true
+enableGitInfo = true

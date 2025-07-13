@@ -1,0 +1,110 @@
+[home]
+  # Set to true to disable the auto-generated summary for un-summarized pages in the homepage
+  disable_file_summary = false
+  # Section to show on homepage
+  main_section = "posts"
+  # Show the number of posts in the section
+  show_posts_count = false
+
+[params]
+  # Theme-specific parameters for PaperMod
+  defaultTheme = "auto" # defaultTheme = "light" or "dark" or "auto"
+  disableThemeToggle = false
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionPage = true
+  disableScrollToTop = false
+  disableInlineCSS = false
+  hideFooter = false
+  hideHeader = false
+  disableToc = false
+  disableSearch = false
+  disableComments = false
+  disableSocial = false
+  disableAuthor = false
+  disableSitemap = false
+  disableRobotsTXT = false
+  disableOpenGraph = false
+  disableTwitterCards = false
+  disableSchema = false
+  disableAnalytics = false
+  disablePWA = false
+  disableWebmanifest = false
+  disableAssets = false
+  disableCover = false
+  disableFuseOpts = false
+  disableSite = false
+  disableHeader = false
+  disableFooter = false
+  disableDisqus = false
+  disableUtterances = false
+  disableGiscus = false
+  disableGitment = false
+  disableValine = false
+  disableTwikoo = false
+  disableWaline = false
+  disableCactusComments = false
+  disableRemark42 = false
+  disableVssue = false
+  disableArtalk = false
+  disableLightGallery = false
+  disableMapbox = false
+  disableAlgolia = false
+  disableKofi = false
+  disableBuymeacoffee = false
+  disablePatreon = false
+  disablePaypal = false
+  disableAlipay = false
+  disableWechatpay = false
+  disableCustom = false
+
+[params.assets]
+  # Example: custom CSS
+  # customCSS = ["css/custom.css"]
+
+[params.cover]
+  # Example: default cover image
+  # link = "/images/cover.png"
+  # alt = "Cover Image"
+
+[params.social]
+  # Example: social links
+  # twitter = "yourtwitterhandle"
+
+[params.analytics]
+  # Example: Google Analytics
+  # googleAnalytics = "UA-XXXXX-Y"
+
+[params.schema]
+  # Example: Schema.org settings
+  # type = "Organization"
+  # logo = "/images/logo.png"
+
+[params.author]
+  # Example: Author information
+  # name = "Your Name"
+  # image = "/images/author.png"
+
+[params.sitemap]
+  # Example: Sitemap settings
+  # changefreq = "weekly"
+  # priority = 0.5
+
+[params.robots]
+  # Example: Robots.txt settings
+  # disallow = ["/search/"]
+
+[params.header]
+  # Example: Header settings
+  # title = "My Awesome Site"
+
+[params.footer]
+  # Example: Footer settings
+  # copyright = "© 2025 Your Company"
+
+[params.comments]
+  # Example: Comments settings
+  # enable = false
