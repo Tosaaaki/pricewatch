@@ -2,12 +2,7 @@
 title: "最新ワイヤレスイヤホン：驚きの高音質と快適な装着感"
 date: 2025-07-13T10:00:00+09:00
 draft: false
-images:
-  - /images/product-sample.jpg
-tags:
-  - イヤホン
-  - ワイヤレス
-  - ガジェット
+
 ---
 
 ![製品画像](/images/product-sample.jpg)
