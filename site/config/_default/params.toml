@@ -27,12 +27,9 @@
   disableAuthor = false
   disableSitemap = false
   disableRobotsTXT = false
-  disableOpenGraph = false
-  disableTwitterCards = false
-  disableSchema = false
-  disableSchema = true
   disableOpenGraph = true
   disableTwitterCards = true
+  disableSchema = true
   disableAnalytics = false
   disablePWA = false
   disableWebmanifest = false
