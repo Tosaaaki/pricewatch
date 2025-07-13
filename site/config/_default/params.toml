@@ -30,6 +30,9 @@
   disableOpenGraph = false
   disableTwitterCards = false
   disableSchema = false
+  disableSchema = true
+  disableOpenGraph = true
+  disableTwitterCards = true
   disableAnalytics = false
   disablePWA = false
   disableWebmanifest = false
