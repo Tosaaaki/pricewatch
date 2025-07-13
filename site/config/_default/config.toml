@@ -2,24 +2,3 @@ baseURL = ""
 languageCode = "ja-jp"
 title = "PriceWatch"
 theme = "PaperMod"
-
-disableKinds = ["taxonomy", "taxonomyTerm"]
-enableRobotsTXT = false
-enableGitInfo = false
-
-[params]
-  description = "Price tracking for various products."
-  keywords = ["price", "tracking", "products"]
-  
-
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 10
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 20
